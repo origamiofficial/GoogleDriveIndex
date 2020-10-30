@@ -2,7 +2,6 @@
 
 ![preview](https://i.imgur.com/ENkZwCU.png)
 
-[All Credit Goes To: maple3142](https://github.com/maple3142)
 
 > GDIndex is similar to [GOIndex](https://github.com/donwa/goindex).
 > It allows you to deploy a "Google Drive Index" on CloudFlare Workers along with many extra features
@@ -44,3 +43,6 @@ This mode will serve a simple nginx-like directory listing, and it only work wit
 On the top of the script, change `lite: false` into `lite: true`, than thats all.
 
 [Lite mode demo](https://gdindex-demo-lite.maple3142.workers.dev/)
+
+
+[All Credit Goes To: maple3142](https://github.com/maple3142)
