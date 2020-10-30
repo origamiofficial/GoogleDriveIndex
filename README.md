@@ -29,7 +29,7 @@ Go [https://gdindex-code-builder.maple3142.net/](https://gdindex-code-builder.ma
 
 ### Worker limits
 > 100,000 requests/day
-> and
+>
 > 1000 requests/min
 
 ### Manual way
