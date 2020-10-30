@@ -1,17 +1,17 @@
-# GDIndex
+# Google Drive Index
 
 ![preview](https://i.imgur.com/ENkZwCU.png)
 
 Copy the code and go to [CloudFlare Workers](https://workers.cloudflare.com) to paste the code.
 
-> GDIndex is similar to [GOIndex](https://github.com/donwa/goindex).
+> Google Drive Index is similar to [GOIndex](https://github.com/donwa/goindex).
 > It allows you to deploy a "Google Drive Index" on CloudFlare Workers along with many extra features
 >
 > By the way, instead of modify from GOIndex, this is a total rewrite
 
 [Demo](https://gdindex-demo.maple3142.workers.dev/)
 
-## Difference between GOIndex and GDIndex
+## Difference between GOIndex and Google Drive Index
 
 -   Frontend is based on Vue.js
 -   Image viewer doesn't require opening new page
