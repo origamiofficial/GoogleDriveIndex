@@ -2,8 +2,7 @@
 
 ![preview](https://i.imgur.com/ENkZwCU.png)
 
-[繁體中文](README.zhtw.md)
-[简体中文](README.zh.md)
+[All Credit Goes To: @maple3142]
 
 > GDIndex is similar to [GOIndex](https://github.com/donwa/goindex).
 > It allows you to deploy a "Google Drive Index" on CloudFlare Workers along with many extra features
