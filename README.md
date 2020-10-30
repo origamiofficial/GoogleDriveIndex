@@ -2,6 +2,7 @@
 
 ![preview](https://i.imgur.com/ENkZwCU.png)
 
+Copy the code and go to [CloudFlare Workers](https://workers.cloudflare.com) to paste the code.
 
 > GDIndex is similar to [GOIndex](https://github.com/donwa/goindex).
 > It allows you to deploy a "Google Drive Index" on CloudFlare Workers along with many extra features
@@ -25,6 +26,10 @@
 ### Simple and automatic way
 
 Go [https://gdindex-code-builder.maple3142.net/](https://gdindex-code-builder.maple3142.net/), and follow its instructions.
+
+### Worker limits
+> 100,000 requests/day
+> 1000 requests/min
 
 ### Manual way
 
